@@ -10,9 +10,9 @@ How to use the script
 1. Copy the script to your server:
    wget https://github.com/PeiferIT/install_odoo16.sh
 2. Make the script executable:
-   chmod +x odoo16_install.sh
+   chmod +x install_odoo16.sh
 3. Run the script:
-   sudo ./odoo16_install.sh
+   sudo ./install_odoo16.sh
 
 What this script does
 1. Installs system dependencies
